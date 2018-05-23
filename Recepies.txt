@@ -6,6 +6,9 @@ Kheer
 Pasta
 khichadi
 
+Beans
+Pizza
+
 
 
 
